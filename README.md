@@ -15,10 +15,10 @@ Just a banch of projects to play in ciandt the garage (will be splitted into oth
  - restArdueasy
  --- A easy way to start a arduino+ethernet project. (still big =/)
  --- This lib provides:
- ----- beginSerial : Init the serial comunication (9600) 
- ----- beginEthernet : Init the server
- ----- bind : Bind a request method and URI with a function to handle the request (WOW! Like SpringMVC =P)
- ----- restLoop : Put this function on your loop to read http requests and automaticaly call your binds! (WOW! Like SpringMVC =P)
+ ------ beginSerial : Init the serial comunication (9600) 
+ ------ beginEthernet : Init the server
+ ------ bind : Bind a request method and URI with a function to handle the request (WOW! Like SpringMVC =P)
+ ------ restLoop : Put this function on your loop to read http requests and automaticaly call your binds! (WOW! Like SpringMVC =P)
  
  
 Disclaimer: Use by your own risks! Have fun and fell free to copy and use all this code!
