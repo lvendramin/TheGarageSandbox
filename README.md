@@ -6,13 +6,13 @@ Just a banch of projects to play in ciandt the garage (will be splitted into oth
 # PROJECTS
  
 ## 7SegsDisplayHexCounter (By rmarco)
-- Using 7 segments display, this project show all exadecimal codes (0-F) into a loop. Enjoy the funy initialization =D
+- Using 7 segments display, this project show all hexadecimal chars (0-F) into a loop. Enjoy the funny initialization =D
  
 ## leapServoController
 - Using LeapMotion js API, is a web page sending http requests with hand's position data to an Arduino (using Ethernet Shield) to control a servo motor.
  
 ## rgbLed
-- Using a html/js color picker, chose the color of an RGB led with arduino
+- Using a html/js color picker, change the color of a RGB led with arduino
  
 ## restArdueasy
 - A easy way to start a arduino+ethernet project. (still big =/)
