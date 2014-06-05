@@ -24,6 +24,6 @@ Just a banch of projects to play in ciandt the garage (will be splitted into oth
  
  
 #Disclaimer
-*Use by your own risks! Have fun and fell free to copy and use all this code!*
+*Use by your own risks! Have fun and feel free to copy and use all this code!*
  
 So Long and Thanks for all the Fish.
