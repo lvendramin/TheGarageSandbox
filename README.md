@@ -1,11 +1,11 @@
 TheGarageSandbox
 ================
 
-Just a banch of projects to play in ciandt the garage (will be splitted into others projects if they grow)
+Just a bunch of projects to play in ciandt the garage (will be splitted into others projects if they grow)
 
 # PROJECTS
  
-## 7SegsDisplayHexCounter (By rmarco)
+## AnalogSingleDisplay (By rmarco)
 - Using 7 segments display, this project show all hexadecimal chars (0-F) into a loop. Enjoy the funny initialization =D
  
 ## leapServoController
@@ -22,6 +22,9 @@ Just a banch of projects to play in ciandt the garage (will be splitted into oth
   3. bind : Bind a request method and URI with a function to handle the request (WOW! Like SpringMVC =P)
   4. restLoop : Put this function on your loop to read http requests and automaticaly call your binds! (WOW! Like SpringMVC =P)
  
+## LCD Temperature
+- This small project was made to meet the requirements of a challenge of the CI&T 3D Printer
+- Further info will be posted
  
 #Disclaimer
 *Use by your own risks! Have fun and feel free to copy and use all this code!*
