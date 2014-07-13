@@ -24,7 +24,17 @@ Just a bunch of projects to play in ciandt the garage (will be splitted into oth
  
 ## LCD Temperature
 - This small project was made to meet the requirements of a challenge of the CI&T 3D Printer
-- Further info will be posted
+- Requirements of this project:
+	- Use a temperature sensor and show the current temperature on the LCD display, and
+	have two buttons to control a limit temperature one degree at a time. 
+	If the max. temperature is reached, it will make a buzz. Altogether, the LED must show
+	a color for each temperature range, as follows:
+		- Less than 12 celsius of the limit temperature: Blue 
+		- Between 12(inclusive) and 8 celsius below the limit: Green
+		- Between 8 and 5 celsius below the limit: Yellow
+		- Between 4 and 1 celsius below the limit: Orange
+		- Equal or less than 5 celsius over the limit: Red
+		- More than 5 celsius over the limit: Blinking Red
  
 #Disclaimer
 *Use by your own risks! Have fun and feel free to copy and use all this code!*
